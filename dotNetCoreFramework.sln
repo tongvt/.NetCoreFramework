@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetCoreFramework", "dotNetCoreFramework\dotNetCoreFramework.csproj", "{596E71D7-36CC-4EB4-963E-A774518DFA83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityFramework", "IdentityFramework\IdentityFramework.csproj", "{A3BE2A56-D61E-4E9B-A65D-F4EA5CF16CCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{596E71D7-36CC-4EB4-963E-A774518DFA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{596E71D7-36CC-4EB4-963E-A774518DFA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{596E71D7-36CC-4EB4-963E-A774518DFA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{596E71D7-36CC-4EB4-963E-A774518DFA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BE2A56-D61E-4E9B-A65D-F4EA5CF16CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BE2A56-D61E-4E9B-A65D-F4EA5CF16CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BE2A56-D61E-4E9B-A65D-F4EA5CF16CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BE2A56-D61E-4E9B-A65D-F4EA5CF16CCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
